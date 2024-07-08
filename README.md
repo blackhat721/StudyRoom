@@ -1,0 +1,1 @@
+An Django base web App similar to Discord Channel for study.
